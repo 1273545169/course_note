@@ -1,6 +1,6 @@
 # course_note
 
-### 字符串
+### 经典算法
 
  - [KMP](https://github.com/1273545169/course_note/blob/master/KMP.md)
  

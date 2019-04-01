@@ -24,16 +24,19 @@ str1和str2进行匹配，先找到str1和str2的公共部分，继续查找发�
 
 #### next数组
 
+k=next[j]
 
-
-![k=next[j]](https://github.com/1273545169/course_note/blob/master/%E5%9B%BE%E7%89%87/kmp5.PNG)
+![](https://github.com/1273545169/course_note/blob/master/%E5%9B%BE%E7%89%87/kmp5.PNG)
 
 要求j+1位置的next，比较str[j]与j位置字符的最长前缀后的字符即str[next[j]]是否相等
 
 若相等，next[j+1]=next[j]+1;
 
-若不等，再计较str[j]与str[next[next[j]]]
+若不等，再计较str[j]与str[next[k]]（k=next[j]）；
 
+直到当前位置的next<=0结束，此时next[j+1]=0
+
+可以以：$abaabak$ 和 $ababcababtk$为例，自己推导
 
 #### 实现
 

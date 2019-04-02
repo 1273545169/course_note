@@ -21,3 +21,9 @@
  - [单调栈](https://github.com/1273545169/course_note/blob/master/%E5%8D%95%E8%B0%83%E6%A0%88.md)
  
    - [数组的MaxTree](https://github.com/1273545169/course_note/blob/master/%E6%95%B0%E7%BB%84%E7%9A%84MaxTree.md)
+   
+   - [柱状图中最大矩形](https://github.com/1273545169/course_note/blob/master/%E6%9F%B1%E7%8A%B6%E5%9B%BE%E4%B8%AD%E6%9C%80%E5%A4%A7%E7%9F%A9%E5%BD%A2.md)
+   
+   - [最大子矩阵的大小](https://github.com/1273545169/course_note/blob/master/%E6%9C%80%E5%A4%A7%E5%AD%90%E7%9F%A9%E9%98%B5%E7%9A%84%E5%A4%A7%E5%B0%8F.md)
+
+   - []()

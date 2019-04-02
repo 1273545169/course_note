@@ -37,6 +37,7 @@ class Morris:
         cur = head
         while cur:
             mostRight = cur.left
+            # 当前节点有左子树
             if mostRight:
                 while mostRight.right and mostRight.right != cur:
                     mostRight = mostRight.right
@@ -47,7 +48,7 @@ class Morris:
                     continue
                 else:
                     mostRight.right = None
-
+            # 节点准备右移时打印，此时节点左子树已打印完
             print(cur.value)
             cur = cur.right
 
@@ -62,17 +63,20 @@ class Morris:
         cur = head
         while cur:
             mostRight = cur.left
+            # 当前节点有左子树
             if mostRight:
                 while mostRight.right and mostRight.right != cur:
                     mostRight = mostRight.right
 
                 if not mostRight.right:
+                    # 当前节点有左子树，在第一次来到此节点时打印
                     print(cur.value)
                     mostRight.right = cur
                     cur = cur.left
                     continue
                 else:
                     mostRight.right = None
+            # 当前节点无左子树，直接打印当前节点
             else:
                 print(cur.value)
 

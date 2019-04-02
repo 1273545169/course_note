@@ -13,3 +13,23 @@
 
 ### 思路解析
 
+#### 构建成大根堆
+
+```python
+
+class Solution:
+    def getMaxTree(self, array):
+        for i in range(len(array)):
+            self.heapInsert(array, i)
+        return array
+
+    def heapInsert(self, array, index):
+        while index > 0 and array[index] > array[(index - 1) // 2]:
+            array[index], array[(index - 1) // 2] = array[(index - 1) // 2], array[index]
+            index = (index - 1) // 2
+
+
+```
+
+#### 单调栈
+

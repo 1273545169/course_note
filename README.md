@@ -17,3 +17,7 @@
  - [窗口最大值算法](https://github.com/1273545169/course_note/blob/master/%E7%AA%97%E5%8F%A3%E6%9C%80%E5%A4%A7%E5%80%BC.md)
  
    - [子数组最大值最小值](https://github.com/1273545169/course_note/blob/master/%E5%AD%90%E6%95%B0%E7%BB%84%E6%9C%80%E5%A4%A7%E5%80%BC%E6%9C%80%E5%B0%8F%E5%80%BC.md)
+   
+ - [单调栈](https://github.com/1273545169/course_note/blob/master/%E5%8D%95%E8%B0%83%E6%A0%88.md)
+ 
+   - [数组的MaxTree](https://github.com/1273545169/course_note/blob/master/%E6%95%B0%E7%BB%84%E7%9A%84MaxTree.md)

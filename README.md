@@ -13,3 +13,7 @@
    - [将字符串变为回文串](https://github.com/1273545169/course_note/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%8F%98%E4%B8%BA%E5%9B%9E%E6%96%87%E4%B8%B2.md) 
    
  - [BFPRT算法](https://github.com/1273545169/course_note/tree-save/master/BFPRT%E7%AE%97%E6%B3%95.md)
+ 
+ - [窗口最大值算法](https://github.com/1273545169/course_note/blob/master/%E7%AA%97%E5%8F%A3%E6%9C%80%E5%A4%A7%E5%80%BC.md)
+ 
+   - [子数组最大值最小值](https://github.com/1273545169/course_note/blob/master/%E5%AD%90%E6%95%B0%E7%BB%84%E6%9C%80%E5%A4%A7%E5%80%BC%E6%9C%80%E5%B0%8F%E5%80%BC.md)

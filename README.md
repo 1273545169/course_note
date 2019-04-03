@@ -29,3 +29,7 @@
    - [环形山可见](https://github.com/1273545169/course_note/blob/master/%E7%8E%AF%E5%BD%A2%E5%B1%B1%E5%8F%AF%E8%A7%81.md)
 
  - [Morris遍历](https://github.com/1273545169/course_note/blob/master/Morris%E9%81%8D%E5%8E%86.md)
+
+- [子数组和长度问题](https://github.com/1273545169/course_note/blob/master/%E5%AD%90%E6%95%B0%E7%BB%84%E5%92%8C%E9%95%BF%E5%BA%A6.md)
+
+  - []()

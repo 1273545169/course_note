@@ -34,7 +34,7 @@
 
  - [字符串公式计算](https://github.com/1273545169/course_note/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2%E8%AE%A1%E7%AE%97.md)
  
- ### 哈希表
+ ### 子数组
 
 - [子数组和为aim的最长子数组](https://github.com/1273545169/course_note/blob/master/%E5%AD%90%E6%95%B0%E7%BB%84%E5%92%8C%E9%95%BF%E5%BA%A6.md)
 
@@ -43,6 +43,8 @@
 - [数组的异或和为0的子数组数量](https://github.com/1273545169/course_note/blob/master/%E6%95%B0%E7%BB%84%E7%9A%84%E5%BC%82%E6%88%96%E5%92%8C%E4%B8%BA0%E7%9A%84%E5%AD%90%E6%95%B0%E7%BB%84%E6%95%B0%E9%87%8F.md)
 
 - [子数组的最大异或和](https://github.com/1273545169/course_note/blob/master/%E5%AD%90%E6%95%B0%E7%BB%84%E7%9A%84%E6%9C%80%E5%A4%A7%E5%BC%82%E6%88%96%E5%92%8C.md)
+
+- [子数组最大值最小值](https://github.com/1273545169/course_note/blob/master/%E5%AD%90%E6%95%B0%E7%BB%84%E6%9C%80%E5%A4%A7%E5%80%BC%E6%9C%80%E5%B0%8F%E5%80%BC.md)
   
   
  ### [二叉树](https://github.com/1273545169/course_note/blob/master/%E4%BA%8C%E5%8F%89%E6%A0%91.md)
@@ -54,3 +56,10 @@
  - [二叉树最远距离](https://github.com/1273545169/course_note/blob/master/%E4%BA%8C%E5%8F%89%E6%A0%91%E6%9C%80%E8%BF%9C%E8%B7%9D%E7%A6%BB.md)
  
  - [员工活跃度](https://github.com/1273545169/course_note/blob/master/%E5%91%98%E5%B7%A5%E6%B4%BB%E8%B7%83%E5%BA%A6.md)
+ 
+ 
+ ### 暴力递归改动态规划
+ 
+ - [换钱的方法](https://github.com/1273545169/course_note/blob/master/%E6%8D%A2%E9%92%B1%E7%9A%84%E6%96%B9%E6%B3%95.md)
+ 
+ - [阿里机器人走路问题](https://github.com/1273545169/course_note/blob/master/%E9%98%BF%E9%87%8C%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B5%B0%E8%B7%AF%E9%97%AE%E9%A2%98.md)

@@ -42,7 +42,7 @@
   
 - [数组的异或和为0的子数组数量](https://github.com/1273545169/course_note/blob/master/%E6%95%B0%E7%BB%84%E7%9A%84%E5%BC%82%E6%88%96%E5%92%8C.md)
 
-- [子数组的异或和](https://github.com/1273545169/course_note/blob/master/%E5%AD%90%E6%95%B0%E7%BB%84%E7%9A%84%E5%BC%82%E6%88%96%E5%92%8C.md)
+- [子数组的最大异或和](https://github.com/1273545169/course_note/blob/master/%E5%AD%90%E6%95%B0%E7%BB%84%E7%9A%84%E5%BC%82%E6%88%96%E5%92%8C.md)
   
   
  ### [二叉树](https://github.com/1273545169/course_note/blob/master/%E4%BA%8C%E5%8F%89%E6%A0%91.md)

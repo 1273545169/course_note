@@ -63,3 +63,5 @@
  - [换钱的方法](https://github.com/1273545169/course_note/blob/master/%E6%8D%A2%E9%92%B1%E7%9A%84%E6%96%B9%E6%B3%95.md)
  
  - [阿里机器人走路问题](https://github.com/1273545169/course_note/blob/master/%E9%98%BF%E9%87%8C%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B5%B0%E8%B7%AF%E9%97%AE%E9%A2%98.md)
+
+ - [纸牌博弈问题](https://github.com/1273545169/course_note/blob/master/%E7%BA%B8%E7%89%8C%E5%8D%9A%E5%BC%88%E9%97%AE%E9%A2%98.md)

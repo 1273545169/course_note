@@ -22,5 +22,33 @@
 
 
 ```python
+class Solution:
+    def getMaxSubLength(self, array, aim):
+        length = len(array)
+        sums = [0] * (length - 1) + [array[-1]]
+        ends = [0] * (length - 1) + [length - 1]
+
+        for i in range(length - 2, -1, -1):
+            if sums[i + 1] < 0:
+                sums[i] = array[i] + sums[i + 1]
+                ends[i] = ends[i + 1]
+            else:
+                sums[i] = array[i]
+                ends[i] = i
+
+        right, curSum, res = 0, 0, 0
+        for left in range(length):
+            # 一块一块向右扩
+            while right < length and curSum + sums[right] <= aim:
+                curSum += sums[right]
+                right = ends[right] + 1
+            # 将curSum对应区间的最左边的数移除，窗口内数减一
+            curSum -= array[left] if right > left else 0
+            res = max(res, right - left)
+            # 以[100,200,7,-6,-3],aim=7来理解
+            # 当right=left，可以让right+1
+            right = max(right, left + 1)
+
+        return res
 
 ```

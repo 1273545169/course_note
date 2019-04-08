@@ -71,3 +71,7 @@
  ### 规律题
  
  - [环形链表的约瑟夫问题](https://github.com/1273545169/course_note/blob/master/%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8%E7%9A%84%E7%BA%A6%E7%91%9F%E5%A4%AB%E9%97%AE%E9%A2%98.md)
+
+### 字符串匹配
+
+ - [正则表达式匹配](https://github.com/1273545169/course_note/blob/master/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F%E5%8C%B9%E9%85%8D.md)

@@ -25,7 +25,7 @@ class Manacher:
         C, R = -1, -1
         maximum = float('-inf')
         for i in range(len(ss)):
-            # case2-1 和 case2-1
+            # case2-1 和 case2-2
             pArray[i] = min(R - i, pArray[2 * C - i]) if R > i else 1
             # case1 和 case2-3
             while i + pArray[i] < len(ss) and i - pArray[i] > -1:

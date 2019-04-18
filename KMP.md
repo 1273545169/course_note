@@ -28,11 +28,11 @@ k=next[j]
 
 ![](https://github.com/1273545169/course_note/blob/master/%E5%9B%BE%E7%89%87/kmp5.PNG)
 
-要求j+1位置的next，比较$str[j]$与$str[j]$的最长前缀后的字符即$str[next[j]]$是否相等
+要求j+1位置的next，比较$str[j]$与$str[j]$的最长前缀后的字符即$str[next[j]]$（$str[k]$）是否相等
 
 若相等，$next[j+1]=next[j]+1$;
 
-若不等，再计较$str[j]$与$str[next[k]]（k=next[j]）$；
+若不等，再计较$str[k]$与$str[next[k]]$；
 
 直到当前位置的next<=0结束，此时$next[j+1]=0$
 

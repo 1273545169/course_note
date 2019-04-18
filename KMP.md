@@ -32,7 +32,7 @@ k=next[j]
 
 若相等，$next[j+1]=next[j]+1$;
 
-若不等，再计较$str[k]$与$str[next[k]]$；
+若不等，再计较$str[j]$与$str[next[k]]$；
 
 直到当前位置的next<=0结束，此时$next[j+1]=0$
 

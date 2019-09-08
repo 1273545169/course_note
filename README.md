@@ -75,3 +75,10 @@
 ### 字符串匹配
 
  - [正则表达式匹配](https://github.com/1273545169/course_note/blob/master/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F%E5%8C%B9%E9%85%8D.md)
+
+
+### 笔试
+
+- [关联用户关系(并查集)](https://github.com/1273545169/course_note/blob/master/%E5%85%B3%E8%81%94%E7%94%A8%E6%88%B7%E5%85%B3%E7%B3%BB(%E5%B9%B6%E6%9F%A5%E9%9B%86).md)
+
+- [数组最小交换次数](https://github.com/1273545169/course_note/blob/master/%E6%95%B0%E7%BB%84%E6%9C%80%E5%B0%8F%E4%BA%A4%E6%8D%A2%E6%AC%A1%E6%95%B0.md)

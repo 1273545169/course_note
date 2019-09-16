@@ -82,3 +82,7 @@
 - [关联用户关系(并查集)](https://github.com/1273545169/course_note/blob/master/%E5%85%B3%E8%81%94%E7%94%A8%E6%88%B7%E5%85%B3%E7%B3%BB(%E5%B9%B6%E6%9F%A5%E9%9B%86).md)
 
 - [数组最小交换次数](https://github.com/1273545169/course_note/blob/master/%E6%95%B0%E7%BB%84%E6%9C%80%E5%B0%8F%E4%BA%A4%E6%8D%A2%E6%AC%A1%E6%95%B0.md)
+ 
+- [字符串中连续最长数字串](https://github.com/1273545169/course_note/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E8%BF%9E%E7%BB%AD%E6%9C%80%E9%95%BF%E6%95%B0%E5%AD%97%E4%B8%B2.md)
+
+- [质因数的个数](https://github.com/1273545169/course_note/blob/master/%E8%B4%A8%E5%9B%A0%E6%95%B0%E7%9A%84%E4%B8%AA%E6%95%B0.md)

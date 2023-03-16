@@ -13,11 +13,7 @@
    - [将字符串变为回文串](https://github.com/1273545169/course_note/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%8F%98%E4%B8%BA%E5%9B%9E%E6%96%87%E4%B8%B2.md) 
    
  - [BFPRT算法](https://github.com/1273545169/course_note/tree-save/master/BFPRT%E7%AE%97%E6%B3%95.md)
- 
- - [窗口最大值算法](https://github.com/1273545169/course_note/blob/master/%E7%AA%97%E5%8F%A3%E6%9C%80%E5%A4%A7%E5%80%BC.md)
- 
-   - [子数组最大值减最小值小于等于aim](https://github.com/1273545169/course_note/blob/master/%E5%AD%90%E6%95%B0%E7%BB%84%E6%9C%80%E5%A4%A7%E5%80%BC%E6%9C%80%E5%B0%8F%E5%80%BC.md)
-   
+    
  - [单调栈](https://github.com/1273545169/course_note/blob/master/%E5%8D%95%E8%B0%83%E6%A0%88.md)
  
    - [数组的MaxTree](https://github.com/1273545169/course_note/blob/master/%E6%95%B0%E7%BB%84%E7%9A%84MaxTree.md)
@@ -35,14 +31,16 @@
  - [复杂计算器](https://github.com/1273545169/course_note/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2%E8%AE%A1%E7%AE%97.md)
  
  ### 子数组
+ 
+ - [窗口最大值算法](https://github.com/1273545169/course_note/blob/master/%E7%AA%97%E5%8F%A3%E6%9C%80%E5%A4%A7%E5%80%BC.md)
+ 
+   - [子数组最大值减最小值小于等于aim](https://github.com/1273545169/course_note/blob/master/%E5%AD%90%E6%95%B0%E7%BB%84%E6%9C%80%E5%A4%A7%E5%80%BC%E6%9C%80%E5%B0%8F%E5%80%BC.md)
 
 - [子数组和为aim的最长子数组](https://github.com/1273545169/course_note/blob/master/%E5%AD%90%E6%95%B0%E7%BB%84%E5%92%8C%E9%95%BF%E5%BA%A6.md)
 
   - [奇偶个数相等的子数组的最大长度](https://github.com/1273545169/course_note/blob/master/%E5%A5%87%E5%81%B6%E4%B8%AA%E6%95%B0%E7%9B%B8%E7%AD%89%E7%9A%84%E5%AD%90%E6%95%B0%E7%BB%84%E7%9A%84%E6%9C%80%E5%A4%A7%E9%95%BF%E5%BA%A6.md)
   
 - [子数组累加和小于等于aim的最长子数组](https://github.com/1273545169/course_note/blob/master/%E5%AD%90%E6%95%B0%E7%BB%84%E7%B4%AF%E5%8A%A0%E5%92%8C%E5%B0%8F%E4%BA%8E%E7%AD%89%E4%BA%8Eaim%E7%9A%84%E6%9C%80%E9%95%BF%E5%AD%90%E6%95%B0%E7%BB%84.md)
-
-- [子数组最大值减最小值小于等于aim](https://github.com/1273545169/course_note/blob/master/%E5%AD%90%E6%95%B0%E7%BB%84%E6%9C%80%E5%A4%A7%E5%80%BC%E6%9C%80%E5%B0%8F%E5%80%BC.md)
   
 - [数组的异或和为0的子数组数量](https://github.com/1273545169/course_note/blob/master/%E6%95%B0%E7%BB%84%E7%9A%84%E5%BC%82%E6%88%96%E5%92%8C%E4%B8%BA0%E7%9A%84%E5%AD%90%E6%95%B0%E7%BB%84%E6%95%B0%E9%87%8F.md)
 

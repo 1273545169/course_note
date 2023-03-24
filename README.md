@@ -26,8 +26,6 @@
 
  - [Morris遍历](https://github.com/1273545169/course_note/blob/master/Morris%E9%81%8D%E5%8E%86.md)
  
- - [LRU缓存结构](https://github.com/1273545169/course_note/blob/master/LRU%E7%BC%93%E5%AD%98%E7%BB%93%E6%9E%84.md)
-
  - [复杂计算器](https://github.com/1273545169/course_note/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2%E8%AE%A1%E7%AE%97.md)
  
  ### 子数组
